@@ -1,4 +1,4 @@
-// Backtracking: construye solución paso a paso y retrocede si falla.
+//  Backtracking: construye solución paso a paso y retrocede si falla.
 // Problema: encontrar camino en matriz 3x3 (0=libre, 1=muro), de (0,0) a (2,2).
 public class MazeSolver {
     static int[][] maze = {
